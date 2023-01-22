@@ -35,3 +35,39 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+
+
+
+
+
+# Unity generated files
+Temp/
+Obj/
+UnityGenerated/
+
+# Visual Studio / MonoDevelop generated files
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Builds
+*.apk
+*.unitypackage
+*.exe

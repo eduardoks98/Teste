@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39f8b64c1657b0744a0efa15ccddbbb7, type: 3}
+  m_Name: (Head) Brain Eye
+  m_EditorClassIdentifier: 
+  displayName: Brain Eye
+  bodyType: 0
+  prefab: {fileID: 6764341736721042393, guid: 1d484534821ec424b90b8e9ed0ac19a2, type: 3}
+  effects:
+  - attributeData: {fileID: 11400000, guid: 856b4ce5fd461e34c8fabf782a30f89e, type: 2}
+    percentage: 0.1
